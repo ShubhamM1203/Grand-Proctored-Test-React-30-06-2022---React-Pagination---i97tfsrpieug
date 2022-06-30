@@ -24,4 +24,4 @@ const PaginationButtonsList = ({ page, clickHandler }) => {
   );
 };
 
-export { PaginationButtonsList }
+export { PaginationButtonsList };
