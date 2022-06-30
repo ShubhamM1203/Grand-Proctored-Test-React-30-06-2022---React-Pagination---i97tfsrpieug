@@ -5,7 +5,7 @@ const Post = () => {
            <h3>{ele.title}</h3>
            <p>{ele.body}</p>
         </div>
-    )
-}
+    );
+};
 
 export { Post }
